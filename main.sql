@@ -15,6 +15,8 @@ INSERT INTO internships values
 ('Aerospace Engineering Intern', 'General Atomics Aeronautical Systems', 'Poway, California', 40, true, '2023/01/09'),
 ('Aerostructures Design Engineering Intern', 'General Atomics Aeronautical Systems', 'Poway, California', 40, true, '2022/01/05'),
 ('2023 Propulsion Engineer Undergraduate Intern', 'Aerospace Corporation', 'El Segundo, California', 40, false, '2023/01/23'),
+('Engineering Intern', 'Raytheon Technologies', 'Winston-Salem, North Carolina', 30, false, '2022/08/22'),
+
 
 
 .print
