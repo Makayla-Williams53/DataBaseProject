@@ -10,6 +10,7 @@ CREATE TABLE internships
 
 INSERT INTO internships values
 ('Aeronautical Engineer(Plasma)', 'Lockheed Martin', 'Palmdale, California', 40, true, '2022/12/20'),
+('Software Engineer (Signature Management)', 'Lockheed Martin', 'Palmdale, California', 40, true, '2022/12/06');
 
 
 .print
