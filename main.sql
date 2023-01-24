@@ -33,3 +33,12 @@ SELECT * FROM internships
 ORDER BY is_paid;
 .print
 
+--query by position name
+.print
+SELECT position FROM internships;
+.print
+
+--query by company name 
+.print
+SELECT company FROM internships;
+.print
