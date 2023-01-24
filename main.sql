@@ -20,5 +20,16 @@ INSERT INTO internships values
 ('Aerospace Engineer (Summer Intern)', 'Lockheed Martin', 'Lone Tree, Colorado', 40, true, '2023/01/15'),
 ('2023 Software Development Undergraduate Intern', 'Aerospace Corporation', 'El Segundo, California', 40, false, '2023/01/18');
 
+--sort by company location name alphabetically
+.print
+SELECT 
+* FROM internships
+ORDER BY location;
+.print
+  
+ --sort by is_paid by false to true
 .print
 SELECT * FROM internships
+ORDER BY is_paid;
+.print
+
